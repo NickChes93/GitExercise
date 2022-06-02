@@ -1,5 +1,8 @@
 Shopping cart
 
+
 quantity     product.name     massa       price      
    1            apple           kg         10$
-   2           bannas           kg          5$
+   2           bannas           kg         5$
+   0,3         avocado          gm         3$
+
