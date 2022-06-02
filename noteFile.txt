@@ -1,4 +1,5 @@
 Shopping cart
 
-quantity     product.name     massa       price
+quantity     product.name     massa       price      
    1            apple           kg         10$
+   2           bannas           kg          5$
