@@ -1,4 +1,5 @@
 Shopping cart
 
 quantity     product.name     massa       price
-   1            apple           kg         10$
+   1            apple           kg         8$
+   0,3         avocado          gm         3$
